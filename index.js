@@ -99,9 +99,9 @@ const {
 /*[-- VCARD --]*/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Admin akuuuu\n' 
+            + 'FN:Kenma\n' 
             + `ORG: Pengembang bot;\n`
-            + `TEL;type=CELL;type=VOICE;waid=${owner}:${PhoneNumber('+' + owner).getNumber('international')}\n` 
+            + `TEL;type=CELL;type=VOICE;waid=6281216563395:+62 812-1656-3395\n` 
             + 'END:VCARD' 
 
        
